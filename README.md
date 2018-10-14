@@ -6,7 +6,7 @@ Impressed by the data in UNESCO Guidebook, we notices that climate change has be
 The apps will have 3 main features: Help user contribute information and provide information and reading news. Everytime users hit report button, we will automatically link to chatbot Facebook that communicate with user and collect photos, data about the photos and its locations. In the searching part, we use google map to help user search “what happens to a specific locations” and provide them information from UNESCO Guidebook, but only users with authorization can have locked data (location of rare species, eg.). Beside that, our app can use to read news about environment.
 
 How we build
--AS, Google map API, science magazines, Chatbot Fb developer
+AS, Google map API, science magazines, Chatbot Fb developer
 
 Challenges
 Most of it would be short-time demand to complete a demo app. Another one is most of us has no prior experience with Java, Android Studio, XML or Geny motion.
