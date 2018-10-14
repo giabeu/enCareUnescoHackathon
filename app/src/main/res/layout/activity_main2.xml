@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:text="\nOnce Upon A Story\nEmissions in Asia and the Pacific\n"></TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:textSize="16sp"
+        android:text="Emissions in the region are high in both absolute and per capita terms.
+Many Asian countries are included in the top 20 emitting countries by total fossil-fuel CO2 emissions which include Thailand (Bangkok for e.g.)."
+        />
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="270dp"
+       android:background="@drawable/ima2"
+       android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:textSize="16sp"
+        android:text="Indeed, in January 2018, Bangkok experienced an issue that health warning to “at risk” residents such as children and the elderly.
+Additionally, Thai cities experience worse air quality than usual, causing somewhat of a mass migration to other city." />
+
+</LinearLayout>
